@@ -1,5 +1,5 @@
+![alt ai](https://github.com/alx/crypto_nesletter/blob/main/assets/header.png?raw=true)
 
-p
 # AI Newsletter Generator
 
 ## Description
@@ -20,19 +20,6 @@ The AI Newsletter Generator is a Python Streamlit app that automates AI-focused 
   * **Optional LinkAce & WhatsApp Integration**: Fetches links from LinkAce and publishes via Waha.
   * **Interactive UI & Customization**: Streamlit UI, selectable Gemini models, and viewable intermediate agent results.
   * **Markdown Output**: Provides newsletters in downloadable Markdown.
-
-## Technologies Used
-
-  * Python 3.x
-  * Streamlit
-  * Google Gemini API (via `google-generativeai` & `karo` framework)
-  * Exa API (via `exa-py` & custom `WebSearchTool`)
-  * LinkAce API (optional, via `requests` & custom `LinkAceSearchTool`)
-  * Waha (WhatsApp HTTP API) (optional, via `requests` & custom `WahaPublishTool`)
-  * Karo Framework (Assumed custom agent framework)
-  * Pydantic
-  * python-dotenv
-  * Requests
 
 ## Setup and Installation
 
