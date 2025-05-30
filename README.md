@@ -1,4 +1,4 @@
-![alt ai](https://github.com/alx/crypto_nesletter/blob/main/assets/header.png?raw=true)
+![alt ai](assets/header.png)
 
 # AI Newsletter Generator
 
